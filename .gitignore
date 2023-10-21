@@ -1,0 +1,5 @@
+# Project exclude paths
+/client/target/
+/general/target/
+/server/target/
+/target/

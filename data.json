@@ -1,0 +1,18 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Drago",
+    "coordinates": {
+      "x": 10.0,
+      "y": 20
+    },
+    "creationDate": "Jun 25, 2023, 8:36:31 PM",
+    "age": 100,
+    "color": "RED",
+    "type": "AIR",
+    "character": "WISE",
+    "cave": {
+      "depth": 5.0
+    }
+  }
+}
